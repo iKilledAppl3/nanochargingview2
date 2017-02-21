@@ -1,0 +1,9 @@
+Package: com.billyellis.ikilledappl3.nanochargingview2
+Name: NanoChargingView 2
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Apple Watch Charging for iOS!
+Maintainer: Billy Ellis & iKilledAppl3
+Author: Billy Ellis & iKilledAppl3
+Section: Tweaks

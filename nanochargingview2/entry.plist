@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = NanoChargingView2;
+	cell = PSLinkCell;
+	detail = NanoChargingView2ListController;
+	icon = NanoChargingView2.png;
+	isController = 1;
+	label = NanoChargingView2;
+    };
+}
